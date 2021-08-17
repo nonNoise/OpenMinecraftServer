@@ -11,8 +11,7 @@
 
 * レベル：　サバイバル、Nomal
 
-!(https://raw.githubusercontent.com/nonNoise/OpenMinecraftServer/main/Documrnt/img/servier.png "server")
-
+![server](https://raw.githubusercontent.com/nonNoise/OpenMinecraftServer/main/Documrnt/img/servier.png)
 
 ■　ルール
 
@@ -30,3 +29,5 @@
 
 *　改善、改良大いにやりたいです。アドバイスがあれば幸いです。
 
+
+![screen](https://raw.githubusercontent.com/nonNoise/OpenMinecraftServer/main/Documrnt/img/2021-08-17232613.png)
