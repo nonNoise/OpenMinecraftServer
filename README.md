@@ -2,6 +2,7 @@
 
 これは、北神が個人的に実験を行うためのMinecraサーバー(Java)です。
 
+
 ■　基本仕様
 
 * 動作環境: Java版 Minecraft 1.17.1(安定版が登場したら更新します)
@@ -9,6 +10,8 @@
 * サーバーアドレス: kitagami.org:22580
 
 * レベル：　サバイバル、Nomal
+
+![server](https://raw.githubusercontent.com/nonNoise/OpenMinecraftServer/main/Documrnt/img/servier.png)
 
 ■　ルール
 
@@ -26,3 +29,5 @@
 
 *　改善、改良大いにやりたいです。アドバイスがあれば幸いです。
 
+
+![screen](https://raw.githubusercontent.com/nonNoise/OpenMinecraftServer/main/Documrnt/img/2021-08-17232613.png)
